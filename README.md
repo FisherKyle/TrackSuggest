@@ -4,18 +4,19 @@
 ###### _By **Kyle Fisher**_
 
 ## **//** Description
-Ultimately an exercise in CSS, HTML, and GitHub, this website represents my first solo endeavor in computer programming.
 
-## **//** /Installation Requirements/Instructions
+Track Suggester is a webpage that assists users interested in learning code and other developer skills. It utilizes jQuery to gather users' answers to several questions and, in turn, provides them with suggestions
 
-1. Clone the repository found at https://github.com/FisherKyle/LandingPage.git.
+## **//** Installation Requirements/Instructions
+
+1. Clone the repository found at https://github.com/FisherKyle/TrackSuggest.git
 2. Open the file titled "index.html" in your web browser.
 
-_Or_, using your web browser, navigate to the gh-page: https://fisherkyle.github.io/LandingPage/
+_Or_, using your web browser, navigate to the gh-page: https://fisherkyle.github.io/TrackSuggest/
 
 ## **//** Support and contact details
 
-Contact kyle@kylefisher.com for further information or assistance with the site.
+Contact kyle@kylefisher.com for more information.
 
 ## **//** Technologies Used
 
@@ -28,4 +29,4 @@ Contact kyle@kylefisher.com for further information or assistance with the site.
 
 ### License
 
-Copyright (c) 2016 **_Kyle Fisher **//** www.kylefisher.com_**
+Copyright (c) 2016 **_Kyle Fisher **//** www.kylefisher.com
