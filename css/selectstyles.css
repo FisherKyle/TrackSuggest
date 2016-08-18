@@ -22,23 +22,13 @@ body {
 }
 
 .Container {
-  display: inline;
+  display: grid | inline - grid;
   background-color: #264073;
   margin: 2%;
-  margin-right: 5%;
+  margin-right: 17%;
   border-radius: 8px;
   height: inherit;
-  float: right;
-}
-
-h3 {
-  font-family: "Arial Rounded MT Bold";
-  text-align: right;
-  color: #8cb6d9;
-  font-size: 300%;
   float: left;
-  margin-left: 5%;
-  margin-top: 3%;
 }
 
 h2 {
@@ -50,20 +40,13 @@ h2 {
 #columnBox {
   margin: 3%;
   background-color: #324467;
-  text-align: right;
-  float: right;
+  text-align: center;
 }
 
-#indexRuby {
+img {
+  text-align: center;
   margin: 10%;
   float: left;
-}
-
-#indexArrow {
-  display: inline-block;
-  float: left;
-  margin: 20px;
-  margin-top: 4%;
 }
 
 p {
@@ -71,38 +54,28 @@ p {
   color: #feeacd;
   font-family: "Avenir";
   font-size: 120%;
-  text-align: right;
 }
 
 span {
-  color: #ff6925;
-  font-size: 36px;
-  margin-right: 1%;
-  font-family: "Arial Rounded MT Bold";
+  color: #ff4000;
+  font-size: 20px;
+  margin-right: 4%;
 
 }
 
-/*#bottomBar {
+#bottomBar {
   display: inline;
-  float: right;
+  float: left;
   background-color: #933c1f;
   margin-top: 2%;
   margin-left: 12%;
-  border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 0px 0px 5px;
   margin-bottom: 4%;
   text-align: right;
-  height: inherit;
-}*/
+}
 
 h4 {
   color: #fff98f;
   margin: 10px 5%;
   font-family: "Arial Rounded MT Bold";
-
-}
-
-button {
-  height: 120px;
-  margin: 8%;
-  float: right;
 }
